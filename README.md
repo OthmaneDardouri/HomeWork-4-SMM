@@ -6,12 +6,12 @@ This repository implements and compares **Maximum Likelihood Estimation (MLE)** 
 
 Given a dataset \( D = \{ X, Y \} \), where
 
-$\[
+$$\[
 X = \begin{bmatrix} x_1 & x_2 & \dots & x_N \end{bmatrix} \in \mathbb{R}^N
 \]
 \[
 Y = \begin{bmatrix} y_1 & y_2 & \dots & y_N \end{bmatrix} \in \mathbb{R}^N
-\]$
+\]$$
 
 and for each \( i = 1, \dots, N \), the following model is assumed:
 
